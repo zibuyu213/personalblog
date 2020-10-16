@@ -3964,17 +3964,7 @@ http-proxy-agent@^2.1.0:
     agent-base "4"
     debug "3.1.0"
 
-http-proxy-middleware@0.17.3:
-  version "0.17.3"
-  resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-0.17.3.tgz#940382147149b856084f5534752d5b5a8168cd1d"
-  integrity sha1-lAOCFHFJuFYIT1U0dS1bWoFozR0=
-  dependencies:
-    http-proxy "^1.16.2"
-    is-glob "^3.1.0"
-    lodash "^4.17.2"
-    micromatch "^2.3.11"
-
-http-proxy-middleware@~0.17.1:
+http-proxy-middleware@^0.17.3, http-proxy-middleware@~0.17.1:
   version "0.17.4"
   resolved "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-0.17.4.tgz#642e8848851d66f09d4f124912846dbaeb41b833"
   integrity sha1-ZC6ISIUdZvCdTxJJEoRtuutBuDM=
@@ -6135,9 +6125,9 @@ npm-run-path@^2.0.0:
     path-key "^2.0.0"
 
 npm-user-validate@~1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.0.tgz#8ceca0f5cea04d4e93519ef72d0557a75122e951"
-  integrity sha1-jOyg9c6gTU6TUZ73LQVXp1Ei6VE=
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/npm-user-validate/-/npm-user-validate-1.0.1.tgz#31428fc5475fe8416023f178c0ab47935ad8c561"
+  integrity sha512-uQwcd/tY+h1jnEaze6cdX/LrhWhoBxfSknxentoqmIuStxUExxjWd3ULMLFPiFUrZKbOVMowH6Jq2FRWfmhcEw==
 
 npm@^6.4.1:
   version "6.10.3"
